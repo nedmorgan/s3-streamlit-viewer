@@ -9,7 +9,7 @@ Welcome to the S3 Media Viewer! 🎉 This nifty Streamlit app lets you explore, 
 2. Install the required packages:
 
 ```bash
-pip install streamlit boto3
+pip install -r requirements.txt
 ```
 
 3. Run the app:
